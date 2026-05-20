@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm [Your Name]
+# 👋 Hey, I'm Mbali Thusi
 
 ### Full Stack Developer · Building things that matter
 
